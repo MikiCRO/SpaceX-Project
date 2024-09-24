@@ -6,6 +6,7 @@ import re
 import unicodedata
 import pandas as pd
 
+
 def date_time(table_cells):
     """
     This function returns the data and time from the HTML  table cell
